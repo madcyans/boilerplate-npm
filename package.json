@@ -2,8 +2,14 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Syan Torres",
 	"description": "A boilerplate for a freeCodeCamp project.",
+	"keywords": [
+		"freecodecamp",
+		"boilerplate-project",
+		"npm",
+		"first-project"
+	],
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.21.2"
 	},
 	"main": "server.js",
 	"scripts": {
